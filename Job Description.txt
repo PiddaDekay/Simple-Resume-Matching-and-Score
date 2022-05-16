@@ -1,0 +1,27 @@
+Job Title:
+Data Scientist
+
+Job Description:
+Blizzard Entertainment is seeking an experienced Data Scientist to join the Service Technologies team as a Lead Data Scientist. The Lead Data Scientist champions the data science efforts on the Service Technologies team, concentrating on player behavior and interactions. The team partners closely with game teams, other technical teams, global security, and customer service to help build a safe and welcoming environment for all gamers.
+
+You’ll join the established Player Interactions and Trust team within Service Tech which includes data science, software engineering, research, design, and key partners within our game teams. The ideal candidate is passionate about machine learning, artificial intelligence, statistics, and deep learning and has expertise in designing highly scalable machine learning algorithms. Additionally, the ideal candidate is an experienced people manager that can help level up the junior data scientists and assist team leadership in helping them reach their full potential and goals.
+
+Requirements:
+Masters or Ph.D. with a specialization in deep learning, machine learning, artificial intelligence, computer vision, statistics, applied math, algorithm design, or a related quantitative field.
+Expertise in statistics, machine learning, and model analytics.
+Able to invent and prototype novel machine learning algorithms from scratch.
+A minimum of 5 years’ hands-on applied or research experience developing machine learning models on large scale data sets.
+Able to translate academic research into application.
+Experience managing data scientists.
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Proficiency in one or more of the higher-level programming languages like Python, Java, C++, Scala, R, etc.
+Strong problem-solving, written and spoken communication skills.
+
+Pluses:
+Experience with Blizzard Entertainment games.
+A proven track record of original contributions to machine learning or statistics.
+Experience with data visualization tools like Tableau.
+Understanding of natural language processing.
+Passion for video games.

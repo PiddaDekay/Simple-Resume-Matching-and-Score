@@ -1,0 +1,15 @@
+Name:
+Kyle Howard
+Email:
+Kylehow@outlook.com
+Contact Phone:
+895045044956
+Education Background:
+Bachelor in Data Analysis
+Professional Skills:
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Strong problem-solving, written and spoken communication skills.
+Experience with data visualization tools like Tableau.
+Understanding of natural language processing.
+Passion for video games.

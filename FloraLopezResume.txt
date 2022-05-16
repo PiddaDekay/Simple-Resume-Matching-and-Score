@@ -1,0 +1,25 @@
+Name:
+Flora Lopez
+Email:
+FloraLopezy@gmail.com
+Contact Phone:
+9960150111
+Education Background:
+Bachelor in Computer Science
+Master in Data Science
+Ph.D in Machine Learning
+Professional Skills:
+Expertise in statistics, machine learning, and model analytics.
+Able to invent and prototype novel machine learning algorithms from scratch.
+A minimum of 5 years’ hands-on applied or research experience developing machine learning models on large scale data sets.
+Able to translate academic research into application.
+Experience managing data scientists.
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Proficiency in one or more of the higher-level programming languages like Python, Java, C++, Scala, R, etc.
+Strong problem-solving, written and spoken communication skills.
+A proven track record of original contributions to machine learning or statistics.
+Experience with data visualization tools like Tableau.
+Understanding of natural language processing.
+Passion for video games.

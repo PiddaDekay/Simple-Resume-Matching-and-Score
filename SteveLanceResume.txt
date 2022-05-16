@@ -1,0 +1,17 @@
+Name:
+Steve Lance
+Email:
+SteveLancy001@gmail.com
+Contact Phone:
+104560456060
+Education Background:
+Bachelor in Computer Science
+Master in Data Science
+Professional Skills:
+Able to translate academic research into application.
+Experience managing data scientists.
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Proficiency in one or more of the higher-level programming languages like Python, Java, C++, Scala, R, etc.
+Strong problem-solving, written and spoken communication skills.

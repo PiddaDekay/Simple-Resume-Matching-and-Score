@@ -1,0 +1,14 @@
+Name:
+Bob Robert
+Email:
+Bobrobert2@gmail.com
+Contact Phone:
+136578561469
+Education Background:
+Masters
+Professional Skills:
+Passion for video games.
+Strong problem-solving, written and spoken communication skills.
+Advanced knowledge of SQL analysis.
+Able to translate academic research into application.
+A minimum of 5 years’ hands-on applied or research experience developing machine learning models on large scale data sets.

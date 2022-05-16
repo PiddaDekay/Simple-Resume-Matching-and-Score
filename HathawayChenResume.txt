@@ -1,0 +1,14 @@
+Name:
+Hathaway Chen
+Email:
+Hathawaychen556@gmail.com
+Contact Phone:
+50023501455
+Education Background:
+Bachelor in Data Analysis
+Professional Skills:
+Understanding of natural language processing.
+Passion for video games.
+Experience managing data scientists.
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.

@@ -1,0 +1,18 @@
+Name:
+Gale Valuntine
+Email:
+gvaluntine@outlook.com
+Contact Phone:
+2336014489
+Education Background:
+Bachelor in Data Analysis
+Master in Computer Science
+Professional Skills:
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Proficiency in one or more of the higher-level programming languages like Python, Java, C++, Scala, R, etc.
+Strong problem-solving, written and spoken communication skills.
+Experience with Blizzard Entertainment games.
+A proven track record of original contributions to machine learning or statistics.
+Experience with data visualization tools like Tableau.

@@ -1,0 +1,19 @@
+Name:
+Catherine Lance
+Email:
+Clance@outlook.com
+Contact Phone:
+2365475611012
+Education Background:
+Ph.D in machine learning
+Masters in Data Science
+Professional Skills:
+Understanding of natural language processing.
+A minimum of 5 years’ hands-on applied or research experience developing machine learning models on large scale data sets.
+Able to translate academic research into application.
+Experience managing data scientists.
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Proficiency in one or more of the higher-level programming languages like Python, Java, C++, Scala, R, etc.
+Strong problem-solving, written and spoken communication skills.

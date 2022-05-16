@@ -1,0 +1,19 @@
+Name:
+Oscar Roberson
+Email:
+Oscarroberson555@outlook.com
+Contact Phone:
+12123015054106
+Education Background:
+Bachelor in Data Analysis
+Professional Skills:
+Experience managing data scientists.
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Proficiency in one or more of the higher-level programming languages like Python, Java, C++, Scala, R, etc.
+Strong problem-solving, written and spoken communication skills.
+A proven track record of original contributions to machine learning or statistics.
+Experience with data visualization tools like Tableau.
+Understanding of natural language processing.
+Passion for video games.

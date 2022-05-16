@@ -1,0 +1,17 @@
+Name:
+Idell George
+Email:
+Idellg1@outlook.com
+Contact Phone:
+665048779011
+Education Background:
+Bachelor in Computer Science
+Master in Data Science
+Professional Skills:
+Expertise in statistics, machine learning, and model analytics.
+Able to invent and prototype novel machine learning algorithms from scratch.
+A minimum of 5 years’ hands-on applied or research experience developing machine learning models on large scale data sets.
+Able to translate academic research into application.
+Experience managing data scientists.
+Understanding of natural language processing.
+Passion for video games.

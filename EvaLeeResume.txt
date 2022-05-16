@@ -1,0 +1,12 @@
+Name:
+Eva Lee
+Email:
+Eva542@gmail.com
+Contact Phone:
+5698744502
+Education Background:
+Bachelor in Computer Science
+Professional Skills:
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Strong problem-solving, written and spoken communication skills.

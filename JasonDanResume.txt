@@ -1,0 +1,17 @@
+Name:
+Jason Dan
+Email:
+Jd223@outlook.com
+Contact Phone:
+559874123454
+Education Background:
+Bachelor in Economics
+Master in Data Science
+Professional Skills:
+Able to translate academic research into application.
+Experience managing data scientists.
+Intermediate to strong knowledge in computer architecture/compilers/OOP/data structure and algorithms.
+Advanced knowledge of SQL analysis.
+Knowledge of GIT/version control, SQL DB architecture, and Hadoop/Map Reduce/Spark
+Proficiency in one or more of the higher-level programming languages like Python, Java, C++, Scala, R, etc.
+Strong problem-solving, written and spoken communication skills.
